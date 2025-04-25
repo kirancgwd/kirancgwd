@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/kirancgwd">
-    <img src="https://img.shields.io/github/followers/kirandadkath?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/kirancgwd?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@kirandadkath">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
