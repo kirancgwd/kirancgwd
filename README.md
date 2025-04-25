@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/github/followers/kirancgwd?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@kirandadkath">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCyuKo3Zzov_oGDXAKZwBBbg?style=social" />
   </a>
   <a href="https://www.linkedin.com/in/kiran-c-dadkath">
     <img src="https://img.shields.io/badge/LinkedIn-Kiran%20C-blue?logo=linkedin&style=flat-square" />
