@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
+<div align="center">
+  <img src="https://github.com/kirancgwd/kirancgwd/blob/main/kiran.png" alt="Kiran Dadkath Banner">
+</div>
+
 <p align="center">
   <a href="https://github.com/kirancgwd">
     <img src="https://img.shields.io/github/followers/kirancgwd?label=Follow&style=social" />
