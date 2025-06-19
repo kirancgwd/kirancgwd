@@ -30,16 +30,8 @@
 <h3 align="left">Important Projects:</h3>
 <ul>
   <li>
-    <strong><a href="https://github.com/kirancgwd/aws-deploy-demo">AWS Deployment Demo</a></strong>: 
+    <strong><a href="https://github.com/kirancgwd/Java_Blogging_App_CICD">AWS Deployment Demo</a></strong>: 
     A Spring Boot application deployed on AWS showcasing CI/CD pipelines, Docker, and Kubernetes integration.
-  </li>
-  <li>
-    <strong><a href="https://github.com/kirancgwd/devops-toolkit">DevOps Toolkit</a></strong>: 
-    A comprehensive repository of scripts and configurations for Jenkins, Terraform, and Kubernetes.
-  </li>
-  <li>
-    <strong><a href="https://github.com/kirancgwd/dockerized-app">Dockerized Application</a></strong>: 
-    A microservices-based application containerized using Docker and orchestrated with Kubernetes.
   </li>
 </ul>
 
