@@ -30,7 +30,7 @@
 <h3 align="left">Important Projects:</h3>
 <ul>
   <li>
-    <strong><a href="https://github.com/kirancgwd/Java_Blogging_App_CICD">AWS Deployment Demo</a></strong>: 
+    <strong><a href="https://github.com/kirancgwd/Java_Blogging_App_CICD">Spring Boot Application deploy on AWS</a></strong>: 
     A Spring Boot application deployed on AWS showcasing CI/CD pipeline using Jenkins, SonarQube for Code analisys, Docker for container and Trivy for Docker image scanning.
   </li>
 </ul>
