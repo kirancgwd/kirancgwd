@@ -42,6 +42,14 @@
   </li>
 </ul>
 
+<ul>
+  <li>
+    <strong><a href="https://github.com/kirancgwd/EKS_Cluster"> AWS EKS cluster Setup and App deployment to the EKS Cluster</a></strong>: 
+    Infrastructure is provisioned on AWS using Terraform to set up an EKS cluster. The application is deployed to the EKS cluster using a Kubernetes deployment-service.yml.
+  </li>
+</ul>
+
+
 ---
 
 <h3 align="left">Connect with me:</h3>
