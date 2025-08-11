@@ -38,9 +38,10 @@
 <ul>
   <li>
     <strong><a href="https://github.com/kirancgwd/Minikube_Setup">Minikube Setup and app deployment to minikube cluster</a></strong>: 
-    This Repository gives you the complete, step-by-step guide to set up and deploy your app to Minikube on Windows — including Docker image handling, Kubernetes Deployment, and Service setup..
+    This Repository gives you the complete step-by-step guide to set up and deploy your app to Minikube on Windows — including Docker image handling, Kubernetes Deployment, and Service setup..
   </li>
 </ul>
+
 ---
 
 <h3 align="left">Connect with me:</h3>
