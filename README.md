@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <div align="center">
-  <img src="https://github.com/kirancgwd/kirancgwd/blob/main/kiran.png" alt="Kiran Dadkath Banner">
+<!-- <img src="https://github.com/kirancgwd/kirancgwd/blob/main/kiran.png" alt="Kiran Dadkath Banner">--!>
 </div>
 
 <p align="center">
